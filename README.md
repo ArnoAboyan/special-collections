@@ -3,7 +3,7 @@
 ## Description
 Implement special collections by given specifications
 
-## Pair String List
+## [Pair String List](src\main\java\com\efimchick\ifmo\collections\PairStringList.java)
 Implement a list of Strings that adding/removing elements by pairs.
 
 Each time you add a string to the list, you should add it twice,
@@ -25,7 +25,7 @@ What should be covered in your implementation:
 - adding of a collection by index
 - iterator (removing via iterator is not required)
 
-## Sorted By Absolute Value Integer Set
+## [Sorted By Absolute Value Integer Set](src\main\java\com\efimchick\ifmo\collections\SortedByAbsoluteValueIntegerSet.java)
 Implement a class of Integer sorted set.
 Values in set should be sorted by their absolute values in ascending order.
 
@@ -36,7 +36,7 @@ What should be covered in your implementation:
 - adding of a collection
 - iterator (removing via iterator is not required)
 
-## Median Queue
+## [Median Queue](src\main\java\com\efimchick\ifmo\collections\MedianQueue.java)
 Implement a queue of Integer that returns its median element.\
 Median here is an element which has equal amounts of lesser and greater elements. Median represents middle value of the collection.    
 For instance, if you put `1, 2, 3, 4, 5` to the queue and then pull element of it, queue will return `3`.\
